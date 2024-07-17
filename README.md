@@ -1,5 +1,5 @@
 # PROFDEV
 
-Student number: 202312226
-Name: Adrian Joseph B. Salva
-Course and section: BSCSSE - TN03
+202312226
+Adrian Joseph B. Salva
+BSCSSE - TN03
